@@ -20,4 +20,4 @@ python session4_final.py
 ```
 
 ## Author
-Inshi — fresher QA engineer
+Inshiraah khan — fresher QA engineer
